@@ -2,6 +2,15 @@
 
 ## Build Setup
 
+POS Final
+Version: 1.0.0
+Author: Paul Michalek
+
+This POS is a modern restaurant table management and Point of Sale (POS) system designed to streamline operations for small to medium-sized restaurants. Built with Node.js and Vue.js, it features real-time table tracking, order management, and a responsive user interface. This system aims to provide an affordable and scalable solution for restaurant operations.
+
+To run: Open CMD, cd into the folder, and type "npm run dev" to launch. Visit http://localhost:3000/ in browser.
+
+
 ```bash
 # install dependencies
 $ npm install
